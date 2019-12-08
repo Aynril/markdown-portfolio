@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![MAI-Logo](https://mai-robotics.de/wp-content/uploads/2018/03/cropped-Logo.png)
